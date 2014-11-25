@@ -8,7 +8,6 @@
   "main": "angular-down-file-directive.js",
   "license": "MIT",
   "homepage": "https://github.com/cipchk/angular-down-file-directive",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",

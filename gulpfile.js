@@ -7,7 +7,7 @@ var gulp = require('gulp'),
 var lvr_port = 11852;
 
 var source = {
-	scripts: 'src/angular-city-select.js',
+	scripts: 'src/angular-down-file-directive.js',
 	demo: 'demo/*.html'
 };
 

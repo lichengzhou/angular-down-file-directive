@@ -1,0 +1,25 @@
+{
+  "name": "angular-down-file-directive",
+  "version": "1.0.0",
+  "authors": [
+    "cipchk <cipchk@gmail.com>"
+  ],
+  "description": "AngularJS 的一个下载文件指令",
+  "main": "angular-down-file-directive.js",
+  "license": "MIT",
+  "homepage": "https://github.com/cipchk/angular-down-file-directive",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.2",
+    "angular-bootstrap": "~0.12.0",
+    "bootstrap": "~3.3.1",
+    "FileSaver": "*"
+  }
+}
